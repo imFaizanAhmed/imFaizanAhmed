@@ -11,20 +11,6 @@
       codesIn: ['Javascript', 'Typescript', 'HTML', 'CSS', 'Python', 'Solidity'],
     };
     
-    experiences = [
-      {
-        company: 'Cognitive Healthcare International',
-        role: 'Fullstack developer',
-        from: 'July 2021',
-        to: 'August 2022'
-      },
-      {
-        company: 'Numu World',
-        role: 'Fullstack developer',
-        from: 'August 2022',
-        to: 'Currently working'
-      }
-    ]
     currentlyLearning = ['Designing', 'Blockchain'];
     hobbies = ['Chess', 'Book Reading'];
 
