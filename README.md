@@ -1,5 +1,7 @@
 <h1 align="center">Hi there👋, I'm Faizan Ahmed</h1>
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 ## Who am I?
 
  ```javascript
