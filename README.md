@@ -10,11 +10,11 @@
     name = 'Faizan Ahmed';
     
     skillset = {
-      toolsUsing: ['React', 'Angular', 'Python Tornando', 'Bootstrap', 'MaterialUI', 'MySQL', 'Figma'],
+      toolsUsing: ['React', 'Angular', 'Python Tornando', 'NodeJs', 'Bootstrap', 'MaterialUI', 'MySQL', 'Figma'],
       codesIn: ['Javascript', 'Typescript', 'HTML', 'CSS', 'Python', 'Solidity'],
     };
     
-    currentlyLearning = ['Designing', 'Blockchain'];
+    currentlyLearning = ['Designing'];
     hobbies = ['Chess', 'Book Reading'];
 
     constructor() {
@@ -27,7 +27,7 @@
     }
     
     ambitions() {
-      Promise.all([this.becomeFullstackBlockchainDev(), this.learnDesigning()]);
+      Promise.all([this.becomeFullstackDev(), this.learnDesigning()]);
     }
   }
  ```
