@@ -14,7 +14,7 @@
       codesIn: ['Javascript', 'Typescript', 'HTML', 'CSS', 'Python', 'Solidity'],
     };
     
-    currentlyLearning = ['Designing'];
+    currentlyLearning = ['DevOps', 'Designing'];
     hobbies = ['Chess', 'Book Reading'];
 
     constructor() {
