@@ -7,15 +7,15 @@
 
  ```javascript
   class WhoAmI extends Person {
-    name = 'Faizan Ahmed';
+    const name: string = 'Faizan Ahmed';
     
-    skillset = {
+    let skillset: Skills = {
       toolsUsing: ['React', 'Angular', 'Python Tornando', 'NodeJs', 'Bootstrap', 'MaterialUI', 'MySQL', 'Figma'],
       codesIn: ['Javascript', 'Typescript', 'HTML', 'CSS', 'Python', 'Solidity'],
     };
     
-    currentlyLearning = ['DevOps', 'Designing'];
-    hobbies = ['Chess', 'Book Reading'];
+    let currentlyLearning: Array<string> = ['DevOps', 'Designing'];
+    let hobbies: Array<string> = ['Chess', 'Book Reading'];
 
     constructor() {
       while(this.alive()) {
